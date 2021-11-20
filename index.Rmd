@@ -142,8 +142,7 @@ Obtener competencias de las bases matemáticas para entender, aplicar y analizar
 + Concepto de ecuación diferencial.
 + Tipos de ecuaciones diferenciales.
 + Técnicas de solución de las ecuaciones diferenciales.
-+ Concepto de integral definida.
-+ Teorema fundamental del cálculo.
++ Técnicas numéricas para resolver EDO.
 
 ### **Capítulo 5**
 
